@@ -1,2 +1,7 @@
-# multi-source-embedded-vulnerabilities
-Multi-source dataset and pipeline for Embedded Systems Vulnerability (ESV) research (2021–2025). Evaluates data fragmentation, completeness, and ESV vs. GPSV overlap across 260k+ records from 7 threat intelligence databases (NVD, VARIoT, CISA KEV, etc.). Keywords: embedded-security vulnerability-dataset iot-security cve-analysis esv
+# Multi-Source Embedded Vulnerabilities
+
+Multi-source dataset and pipeline for Embedded System Vulnerability (ESV) research (2021–2025). This project evaluates data fragmentation, completeness, and overlap between Embedded System Vulnerabilities (ESV) and General-Purpose System Vulnerabilities (GPSV) across multiple vulnerability and threat intelligence databases, including NVD, VARIoT, and CISA KEV.
+
+**Dataset availability:** The full dataset is available from the corresponding author upon reasonable request.
+
+**Keywords:** embedded-security, vulnerability-dataset, IoT-security, CVE-analysis, ESV
